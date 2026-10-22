@@ -10,7 +10,7 @@
 [![Year](https://img.shields.io/badge/Updated-2026-181717?style=for-the-badge&logo=github)](#)
 
 ## 📽️ Watch on YouTube
-🎥 **YouTube:** *(add your video link here)*
+🎥 **YouTube:** *(https://youtu.be/SGOTp5veA2c)*
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 📸 Preview
 
-![Git & GitHub Course Thumbnail](thumbnail.png)
+![Git & GitHub Course Thumbnail](https://github.com/frontend-mastery12/Git-GitHub-Course/blob/e5242ef2d8625937f9b3b72a3200893b331e2240/Complete%20Git%20%26%20GitHub%20Course%20for%20Beginners-Thumbnail.png)
 
 ---
 
@@ -79,25 +79,25 @@ No fluff, no jargon dumps. Each command is introduced with a real-world reason f
 
 | Timestamp | Topic |
 |-----------|-------|
-| 00:00 | Intro |
-| 00:00 | What is Git & GitHub? |
-| 00:00 | Installing Git |
-| 00:00 | Configure Git & Create a GitHub Account |
-| 00:00 | Generate an SSH Key |
-| 00:00 | `git init`, `git status` & `git add` |
-| 00:00 | `git commit` & `git diff` |
-| 00:00 | `git reset` (soft, mixed, hard) & `git revert` |
-| 00:00 | `git restore` & `git log` |
-| 00:00 | Branching Basics |
-| 00:00 | `git switch -c` & Deleting Branches |
-| 00:00 | Git Merging |
-| 00:00 | Merge Conflicts Explained & Fixed |
-| 00:00 | `git cherry-pick` |
-| 00:00 | `.gitignore` |
-| 00:00 | Push Your First Project to GitHub |
-| 00:00 | `git clone` |
-| 00:00 | `git fetch` vs `git pull` |
-| 00:00 | Wrap-Up |
+| 0:00 | Intro |
+| 0:32 | What is Git & GitHub? |
+| 3:16 | Installing Git |
+| 5:02 | Configure Git & Create a GitHub Account |
+| 7:32 | Generate an SSH Key |
+| 12:47 | `git init`, `git status` & `git add` |
+| 20:05 | `git commit` & `git diff` |
+| 26:44 | `git reset` (soft, mixed, hard) & `git revert` |
+| 39:23 | `git restore` & `git log` |
+| 45:18 | Branching Basics |
+| 52:44 | `git switch -c` & Deleting Branches |
+| 1:01:25 | Git Merging |
+| 1:09:17 | Merge Conflicts Explained & Fixed |
+| 1:19:50 | `git cherry-pick` |
+| 1:25:37 | `.gitignore` |
+| 1:26:46 | Push Your First Project to GitHub |
+| 1:33:50 | `git clone` |
+| 1:36:54 | `git fetch` vs `git pull` |
+| 1:40:40 | Wrap-Up |
 
 ---
 
